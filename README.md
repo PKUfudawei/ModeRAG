@@ -4,13 +4,33 @@
 
 <p align="center">
   <a href="https://huggingface.co/datasets/PKUfudawei/LHCpublications"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-LHC%20Publications-yellow" alt="Hugging Face Dataset: LHC Publications"></a>
+  <a href="https://huggingface.co/datasets/PKUfudawei/AI4EIC2023"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-AI4EIC2023-yellow" alt="Hugging Face Dataset: AI4EIC2023"></a>
   <a href="pyproject.toml"><img src="https://img.shields.io/badge/Python-%E2%89%A53.10-3776ab?logo=python&logoColor=white" alt="Python requirement: >=3.10"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue" alt="MIT License"></a>
 </p>
 
-[简体中文](README.zh-CN.md)
+<p align="center">
+  <strong>English</strong> · <a href="README.zh-CN.md">简体中文</a>
+</p>
 
-[Quick Start](#quick-start) · [How It Works](#how-it-works) · [Configuration](#configuration) · [Datasets](#datasets)
+## Table of Contents
+
+- [Overview](#overview)
+- [Installation](#installation)
+- [Quick Start](#quick-start)
+  - [1. Configure your LLM](#1-configure-your-llm)
+  - [2. Download an example index](#2-download-an-example-index)
+  - [3. Ask a question](#3-ask-a-question)
+- [How It Works](#how-it-works)
+- [Configuration](#configuration)
+- [Datasets](#datasets)
+  - [Index your documents](#index-your-documents)
+- [Evaluation](#evaluation)
+- [Repository Layout](#repository-layout)
+- [Documentation](#documentation)
+- [License](#license)
+
+---
 
 ## Overview
 

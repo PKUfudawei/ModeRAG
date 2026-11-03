@@ -4,13 +4,33 @@
 
 <p align="center">
   <a href="https://huggingface.co/datasets/PKUfudawei/LHCpublications"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-LHC%20Publications-yellow" alt="Hugging Face Dataset: LHC Publications"></a>
+  <a href="https://huggingface.co/datasets/PKUfudawei/AI4EIC2023"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-AI4EIC2023-yellow" alt="Hugging Face Dataset: AI4EIC2023"></a>
   <a href="pyproject.toml"><img src="https://img.shields.io/badge/Python-%E2%89%A53.10-3776ab?logo=python&logoColor=white" alt="Python requirement: >=3.10"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue" alt="MIT License"></a>
 </p>
 
-[English](README.md)
+<p align="center">
+  <a href="README.md">English</a> · <strong>简体中文</strong>
+</p>
 
-[快速开始](#快速开始) · [工作原理](#工作原理) · [配置](#配置) · [数据集](#数据集)
+## 目录
+
+- [项目介绍](#项目介绍)
+- [安装](#安装)
+- [快速开始](#快速开始)
+  - [1. 配置语言模型](#1-配置语言模型)
+  - [2. 下载示例索引](#2-下载示例索引)
+  - [3. 提问](#3-提问)
+- [工作原理](#工作原理)
+- [配置](#配置)
+- [数据集](#数据集)
+  - [为自己的文档建立索引](#为自己的文档建立索引)
+- [评估](#评估)
+- [仓库结构](#仓库结构)
+- [文档](#文档)
+- [许可证](#许可证)
+
+---
 
 ## 项目介绍
 
